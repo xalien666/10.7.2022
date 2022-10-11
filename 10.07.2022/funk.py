@@ -14,7 +14,7 @@ def qaliqlibolme(m,n):
     return m/n
 
 def quvvet(m,n):
-    return m*n
+    return m**n
 
 def ebob(m,n):
     
